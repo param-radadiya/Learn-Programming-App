@@ -4,6 +4,6 @@ By installing it you don't have to go anywhere else to learn programming languag
 
 <a><img align="center" src="https://drive.google.com/file/d/1isuoXEUmymSZYYv0Iny8KX048mVnEwgL/view?usp=sharing" alt="param_radadiya" height="720" width="1520" /></a>
 
-<a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="param_radadiya" height="30" width="40" /></a>
+
 
 <a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="param_radadiya" height="30" width="40" /></a>
