@@ -2,8 +2,13 @@
 **Learn-Programming-App This project is an Android application, which helps to learn coding from scratch to an advanced level. It contains all the material like documentation, Coding challenges, interview questions, and compiler to run and test your code on one platform.
 By installing it you don't have to go anywhere else to learn programming languages like C, C++, Java, Python, Kotlin.**
 
-<a><img align="center" src="https://drive.google.com/file/d/1isuoXEUmymSZYYv0Iny8KX048mVnEwgL/view?usp=sharing" alt="param_radadiya" height="720" width="1520" /></a>
+For Screen-Shot plsease click on below link :
 
+Splash Screen:
+https://tinyurl.com/AppSplashScreen
 
+Home Page :
+https://tinyurl.com/AppHomePage
 
-<a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="param_radadiya" height="30" width="40" /></a>
+C Language Section :
+https://tinyurl.com/CLangSection
